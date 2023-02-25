@@ -44,6 +44,6 @@ High School Education
 + [app وظيفتك](https://play.google.com/store/apps/details?id=com.codeco404.wazefatak)
 
 ---
-[See \space Full \space CV](https://github.com/amrokh1996/my-first-repo/blob/c3396c480a79dcdf5d09799de939cb4be697a792/amrocv.jpg)
+[-See Full CV](https://github.com/amrokh1996/my-first-repo/blob/c3396c480a79dcdf5d09799de939cb4be697a792/amrocv.jpg)
 
 
