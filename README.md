@@ -6,6 +6,7 @@
 
 ---
 > ### `P E R S O N A L  P R O F I L E`
++ **Full Name      :** Amro Khaled Ahmad Alkhazaleh
 + **place of birth :** Almafraq
 + **Date of birth  :** 23/4/1996
 + **Nationality    :** Jordanian
@@ -14,6 +15,7 @@
 > ### `C O N T A C T`
 + :wedding: Almafraq-Jordan
 + :telephone_receiver: 0789308028
++ :telephone_receiver: 0772511542
 + :email: `amro.kh.alkhazaleh@gmail.com`
 ---
 > ### `E D U C A T I O N`
